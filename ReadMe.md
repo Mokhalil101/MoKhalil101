@@ -102,17 +102,6 @@ I believe that technology communities play an important role in building better 
 
 ---
 
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Mokhalil101&theme=darkhub&no-frame=true&no-bg=true&margin-w=4)
-
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
