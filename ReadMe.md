@@ -24,6 +24,9 @@
 - ⚡ I enjoy turning ideas into AI systems and participating in tech communities like ICPC & GDG.
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mokhalil101/assets/main/ascii-portrait.svg" alt="ASCII Portrait" width="350">
+</p>
 
 ## 🚀 Featured Projects
 
@@ -133,9 +136,7 @@ I believe that technology communities play an important role in building better 
 </p>
 
 ---
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mokhalil101/assets/main/ascii-portrait.svg" alt="ASCII Portrait" width="350">
-</p>
+
 
 ## 🏆 GitHub Trophies
 
