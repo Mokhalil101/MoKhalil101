@@ -102,11 +102,10 @@ Deep Learning research project focused on recognizing human activities in videos
 - 🎓 Data Science Student at Badr University.
 - 📊 Ejada Data & Analytics Internship.
 - 💻 Data Engineering Intern – FortyGuard.
-- 🏅 Top 5 – GCI World 2026.
 - 🥈 2nd Place – Asyut University Olympics.
 - 🌍 GDG Assiut Organizer.
 - 👨‍🏫 ICPC BUA Mentor & Head of HR.
-- 🎯 Hult Prize BUA Head of HR.
+- 🎯 Hult Prize BUA Campus Director.
 
 ---
 
@@ -134,6 +133,11 @@ I believe that technology communities play an important role in building better 
 </p>
 
 ---
+## 🧊 3D Contribution Calendar
+
+<p align="center">
+  <img src="https://github.com/Mokhalil101/Mokhalil101/blob/output/profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Calendar" width="100%">
+</p>
 
 ## 🏆 GitHub Trophies
 
