@@ -28,41 +28,6 @@
   <img src="https://raw.githubusercontent.com/Mokhalil101/assets/main/ascii-portrait.svg" alt="ASCII Portrait" width="350">
 </p>
 
-## 🚀 Featured Projects
-
-### 🛡️ Gold Guard
-
-AI-powered jewelry security system designed to detect, identify, and track jewelry products across multiple cameras.
-
-**Technologies:**
-- Computer Vision
-- Object Detection
-- Re-Identification
-- Multi-Camera Tracking
-- PostgreSQL & pgvector
-
-### 🚗 Road Damage Detection
-
-A Computer Vision project that detects road damage such as potholes, cracks, and manholes using YOLOv8.
-
-**Technologies:** Python · YOLOv8 · OpenCV · PyTorch · Gradio
-
-### 📚 StudyFlow
-
-An AI-powered learning platform designed to transform lecture materials into structured study resources.
-
-**Features:**
-- Lecture Summaries
-- Mind Maps
-- Interactive Questions
-- Organized Learning Content
-
-### 🎬 Action Detection & Recognition
-
-Deep Learning research project focused on recognizing human activities in videos using the UCF101 dataset.
-
-**Technologies:** PyTorch · CNNs · ResNet · Two-Stream Networks · Vision Transformers · YOLOv8 · DeepSORT
-
 ---
 
 ## 🧠 AI & Machine Learning
