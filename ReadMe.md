@@ -133,10 +133,8 @@ I believe that technology communities play an important role in building better 
 </p>
 
 ---
-## 🧊 3D Contribution Calendar
-
 <p align="center">
-  <img src="https://github.com/Mokhalil101/Mokhalil101/blob/output/profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Calendar" width="100%">
+  <img src="https://raw.githubusercontent.com/Mokhalil101/assets/main/ascii-portrait.svg" alt="ASCII Portrait" width="350">
 </p>
 
 ## 🏆 GitHub Trophies
