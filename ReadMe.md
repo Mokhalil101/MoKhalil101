@@ -85,6 +85,7 @@ I believe that technology communities play an important role in building better 
 - **ICPC BUA:** Mentor & Head of HR.
 - **Hult Prize BUA:** Head of HR.
 - **AI Society:** HR Member.
+- **Hult Prize:** Campus Director.
 
 ---
 
